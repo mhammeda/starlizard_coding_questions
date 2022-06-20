@@ -1,5 +1,4 @@
 # Question 1
-
 def getMaximumOutfits(outfits, money):
 	start_index = 0
 	next_index = 1
